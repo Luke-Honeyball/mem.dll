@@ -1,0 +1,6 @@
+C:\Users\lukeh\Documents\VS Projects\mem\mem\bin\Debug\mem.dll
+C:\Users\lukeh\Documents\VS Projects\mem\mem\bin\Debug\mem.pdb
+C:\Users\lukeh\Documents\VS Projects\mem\mem\obj\Debug\mem.csproj.AssemblyReference.cache
+C:\Users\lukeh\Documents\VS Projects\mem\mem\obj\Debug\mem.csproj.CoreCompileInputs.cache
+C:\Users\lukeh\Documents\VS Projects\mem\mem\obj\Debug\mem.dll
+C:\Users\lukeh\Documents\VS Projects\mem\mem\obj\Debug\mem.pdb
