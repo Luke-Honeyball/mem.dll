@@ -3,7 +3,7 @@ A simple and easy to use .NET memory editing class for hacking games and apps.
 
 Example code:
 
-`
+```
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -39,7 +39,7 @@ namespace test
     }
 }
  
-`
+```
 
 
 Go to the wiki for more information about functions.
